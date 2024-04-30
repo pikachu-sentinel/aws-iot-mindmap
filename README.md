@@ -68,6 +68,6 @@ Remember to replace placeholder text with actual content. Providing detailed ins
 
 If you have any screenshots of the mindmap, I recommend adding them to make the README more engaging. You can embed images using the following markdown syntax:
 
-![Alt text](./Screenshot_11.png.png)
+![Alt text](./Screenshot_11.png)
 
 Let me know if you need further assistance with specific sections or additional project details.
